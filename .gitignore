@@ -1,0 +1,31 @@
+# author: @iamtienng
+.DS_Store
+mrsbb/BackEnd/MRSBBvenv
+mrsbb/FrontEnd/mrsbb-fe/node_modules
+.vscode
+__pycache__/
+mrsbb/BackEnd/mrsbb-venv/
+mrsbb/BackEnd/new-venv/
+
+# dependencies
+node_modules/
+mrsbb/FrontEnd/mrsbb-fe/.pnp
+mrsbb/FrontEnd/mrsbb-fe/.pnp.js
+
+# testing
+mrsbb/FrontEnd/mrsbb-fe/coverage
+mrsbb/BackEnd/mrsbb-be/test.py
+
+# production
+mrsbb/FrontEnd/mrsbb-fe/build
+
+# misc
+mrsbb/FrontEnd/mrsbb-fe/.DS_Store
+mrsbb/FrontEnd/mrsbb-fe/.env.development.local
+mrsbb/FrontEnd/mrsbb-fe/.env.local
+mrsbb/FrontEnd/mrsbb-fe/.env.test.local
+mrsbb/FrontEnd/mrsbb-fe/.env.production.local
+
+mrsbb/FrontEnd/mrsbb-fe/npm-debug.log*
+mrsbb/FrontEnd/mrsbb-fe/yarn-debug.log*
+mrsbb/FrontEnd/mrsbb-fe/yarn-error.log*

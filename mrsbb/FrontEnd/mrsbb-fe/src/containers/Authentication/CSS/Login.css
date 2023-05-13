@@ -1,0 +1,45 @@
+/* author: @iamtienng */
+@media screen and (min-width: 900px) {
+  .container-login {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5;
+    height: 100vh;
+    background-color: #f5f5f5;
+  }
+  .title-login {
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-sizing: border-box;
+    margin-right: 0;
+    padding-right: 32px;
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 899px) {
+  .container-login {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 5;
+    height: 100vh;
+    background-color: #f5f5f5;
+    flex-direction: column;
+  }
+  .title-login {
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+}

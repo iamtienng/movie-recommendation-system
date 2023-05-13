@@ -1,0 +1,61 @@
+/* author: @iamtienng */
+@media screen and (min-width: 900px) {
+  .container-signup {
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5;
+    height: 100vh;
+    background-color: #f5f5f5;
+  }
+  .title-signup {
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-sizing: border-box;
+    margin-right: 0;
+    padding-right: 32px;
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 899px) {
+  .container-signup {
+    color: black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 5;
+    height: 100vh;
+    background-color: #f5f5f5;
+    flex-direction: column;
+  }
+  .title-signup {
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+}
+
+.log-in-button {
+  border: "none";
+  background-color: "#050038";
+  font-weight: "bold";
+  font-size: 20;
+  height: 48;
+}
+
+.form-select {
+  display: inline-block !important;
+  width: 105px;
+  height: 36px;
+}

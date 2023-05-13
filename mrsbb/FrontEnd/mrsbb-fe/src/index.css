@@ -1,0 +1,12 @@
+/* author: @iamtienng */
+@media screen and (min-width: 769px) {
+  /* STYLES HERE */
+}
+
+@media screen and (min-device-width: 481px) and (max-device-width: 768px) {
+  /* STYLES HERE */
+}
+
+@media only screen and (max-device-width: 480px) {
+  /* STYLES HERE */
+}

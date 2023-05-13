@@ -1,0 +1,18 @@
+// author: @iamtienng
+// this file is used to store all the types of actions for authentification
+
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const SIGNUP_SUCCESS = "SIGNUP_SUCCESS";
+export const SIGNUP_FAIL = "SIGNUP_FAIL";
+export const USER_LOADED_SUCCESS = "USER_LOADED_SUCCESS";
+export const USER_LOADED_FAIL = "USER_LOADED_FAIL";
+export const AUTHENTICATED_SUCCESS = "AUTHENTICATED_SUCCESS";
+export const AUTHENTICATED_FAIL = "AUTHENTICATED_FAIL";
+export const LOGOUT = "LOGOUT";
+export const ADMIN_LOGIN_SUCCESS = "ADMIN_LOGIN_SUCCESS";
+export const ADMIN_LOGIN_FAIL = "ADMIN_LOGIN_FAIL";
+export const ADMIN_LOADED_SUCCESS = "ADMIN_LOADED_SUCCESS";
+export const ADMIN_LOADED_FAIL = "ADMIN_LOADED_FAIL";
+export const ADMIN_AUTHENTICATED_SUCCESS = "ADMIN_AUTHENTICATED_SUCCESS";
+export const ADMIN_AUTHENTICATED_FAIL = "ADMIN_AUTHENTICATED_FAIL";
