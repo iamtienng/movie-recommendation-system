@@ -70,4 +70,5 @@ So, the deployment order will be as follows:
 1. Database
 2. Backend
 3. Frontend
-   Deployment details can be found in the Report in section VIII.4.
+
+Deployment details can be found in the Report in section VIII.4.
