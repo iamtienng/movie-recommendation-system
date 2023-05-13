@@ -9,7 +9,7 @@ The proposed software engineering project is a web application that recommends m
 ## Software Development Process
 
 Scrum
-Details of the Scrum implementation steps are available in the Report:
+Details of the Scrum implementation steps are available in the [Report](https://github.com/iamtienng/movie-recommendation-system/blob/master/Report-Final-SE-NguyenMinhTien.pdf):
 Scrum Initial Phase: VI.
 Scrum Implementation Phase: VII.
 Scrum Project Closure: VIII.
@@ -25,7 +25,7 @@ Frontend: ReactJS
 
 ### Recommendation System Algorithm Design
 
-Details of the Recommendation System Algorithm Design are available in the Report in section IX.
+Details of the Recommendation System Algorithm Design are available in the [Report](https://github.com/iamtienng/movie-recommendation-system/blob/master/Report-Final-SE-NguyenMinhTien.pdf) in section IX.
 
 ### Use Case Diagram
 
