@@ -71,4 +71,4 @@ So, the deployment order will be as follows:
 2. Backend
 3. Frontend
 
-Deployment details can be found in the Report in section VIII.4.
+Deployment details can be found in the [Report](https://github.com/iamtienng/movie-recommendation-system/blob/master/Report-Final-SE-NguyenMinhTien.pdf) in section VIII.4.
