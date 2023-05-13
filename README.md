@@ -29,19 +29,35 @@ Details of the Recommendation System Algorithm Design are available in the Repor
 
 ### Use Case Diagram
 
+![alt text](https://raw.githubusercontent.com/iamtienng/movie-recommendation-system/master/design/Usecase.jpg?token=GHSAT0AAAAAACBGBWER6M5LT5WFIDAUWAZWZC7JNYA)
+
 ### Component Diagram
+
+![alt text](https://raw.githubusercontent.com/iamtienng/movie-recommendation-system/master/design/Component_Architecture_Design.jpg?token=GHSAT0AAAAAACBGBWEQMHYTZFDZUEPNFMXKZC7JN3A)
 
 ### Sequence Diagram
 
+![alt text](https://raw.githubusercontent.com/iamtienng/movie-recommendation-system/master/design/Sequence_Diagram_User.jpg?token=GHSAT0AAAAAACBGBWEQZHOH5XPTOHYTBYMCZC7JN4A)
+
+![alt text](https://raw.githubusercontent.com/iamtienng/movie-recommendation-system/master/design/Sequence_Diagram_Admin.jpg?token=GHSAT0AAAAAACBGBWERIX2GJ7PVUXBZ3XCMZC7JN5A)
+
 ### Database Schema
 
+![alt text](https://raw.githubusercontent.com/iamtienng/movie-recommendation-system/master/design/MongoDBSchemaDiagram.jpg?token=GHSAT0AAAAAACBGBWEQW3FMWJWLRORLD4A6ZC7JN6Q)
+
 ### Backend Class Diagram
+
+![alt text](https://raw.githubusercontent.com/iamtienng/movie-recommendation-system/master/design/Class_Diagram.jpg?token=GHSAT0AAAAAACBGBWEQPAI3S6HAWVRC6OZCZC7JN7Q)
 
 ### Frontend Design
 
 #### Redux Design Diagram
 
+![alt text](https://raw.githubusercontent.com/iamtienng/movie-recommendation-system/master/design/ReduxDiagram.jpg?token=GHSAT0AAAAAACBGBWEQPPNOXYHHTG6YUWEQZC7JOAQ)
+
 #### UI Layer Design Diagram
+
+![alt text](https://raw.githubusercontent.com/iamtienng/movie-recommendation-system/master/design/UIDesign.jpg?token=GHSAT0AAAAAACBGBWERKXBTBDMDINCPEVUGZC7JOCA)
 
 ## Deployment
 
